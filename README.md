@@ -16,8 +16,11 @@
 ---
 
 ⦿ Kali linux
+
 ⦿ nmap
+
 ⦿ metasploit-framework (msfconsole)
+
 ⦿ set RHOSTS, show info, exploit
 
 📑**Результаты тестирования**
