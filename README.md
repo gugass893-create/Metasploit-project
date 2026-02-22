@@ -27,6 +27,7 @@
 ---
 
 • [metasploit-exploit.doc](https://github.com/user-attachments/files/25470174/metasploit-exploit.doc) - подробная информация(рус+англ языки)
+
 • Скриншот и заметки о процессе эксплуатации
 
 
